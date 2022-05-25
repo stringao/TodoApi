@@ -14,7 +14,7 @@ se desejar verificar o projeto a rodar com a persistencia no SQL server, existe 
 
 ### TESTE PARA BACKEND TEST
 
-A paySimplex precisa implementar uma API REST para gestão de tarefas. Cada tarefa tem data
+o Cliente precisa implementar uma API REST para gestão de tarefas. Cada tarefa tem data
 
 de início, duração estimada, e diferentes estados para indicar se a tarefa se encontra
 
