@@ -41,6 +41,6 @@ jobs:
 
     - name: Test Todo.Domain.Tests
       run: |
-            cd ./Todo.Domain.API
+            cd ./Todo.Domain.Tests
             dotnet restore
             dotnet test --verbosity normal
