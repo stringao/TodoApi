@@ -43,4 +43,4 @@ jobs:
       run: |
             cd ./Todo.Domain.API
             dotnet restore
-            dotnet test --no-build --verbosity normal
+            dotnet test --verbosity normal
